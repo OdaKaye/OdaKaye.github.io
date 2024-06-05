@@ -7,7 +7,7 @@ header{
     height: 45px
 }
 header nav ul{
-    display: flex;
+    display: inline-flex;
     margin-right: 70%;
     list-style: none;
 }
@@ -32,6 +32,7 @@ section{
 .Container img{
     height: 300px;
     border-radius: 50%;
+    justify-content: center;
 }
 
 .Container h1{
