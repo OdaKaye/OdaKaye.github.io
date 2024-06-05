@@ -50,3 +50,19 @@ footer {
     justify-content: center;
     font-size: 1rem;
 }
+
+#home {
+    background-color: blanchedalmond;
+}
+
+#about {
+    background-color: aquamarine;
+}
+
+#eceprojects {
+    background-color: blanchedalmond;
+}
+
+#artsprojects {
+    background-color: aquamarine;
+}
