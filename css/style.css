@@ -8,7 +8,7 @@ header{
 }
 header nav ul{
     display: flex;
-    margin-left: 70%;
+    margin-right: 70%;
     list-style: none;
 }
 
@@ -23,7 +23,7 @@ header a{
 
 section{
     height: 100vh;
-    border: 1px palevioletred;
+    border: 5px palevioletred;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -35,7 +35,7 @@ section{
 }
 
 .Container h1{
-    font-size: medium;
+    font-size: 6em;
     font-family: fantasy;
 }
 
@@ -44,6 +44,7 @@ section{
     font-size: 3em;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 .Container p, ul{
     margin-top: 2%;
     font-size: 1.5rem;
