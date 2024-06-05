@@ -35,14 +35,15 @@ section{
 }
 
 .Container h1{
+    margin-top: 2%;
     font-size: 6em;
-    font-family: fantasy;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .Container h2{
     margin-top: 2%;
     font-size: 3em;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: fantasy;
 }
 
 .Container p, ul{
