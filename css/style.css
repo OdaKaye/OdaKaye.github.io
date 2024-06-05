@@ -34,6 +34,11 @@ section{
     border-radius: 50%;
 }
 
+.Container h1{
+    font-size: medium;
+    font-family: fantasy;
+}
+
 .Container h2{
     margin-top: 2%;
     font-size: 3em;
