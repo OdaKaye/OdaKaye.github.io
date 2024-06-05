@@ -32,7 +32,6 @@ section{
 .Container img{
     height: 300px;
     border-radius: 50%;
-    justify-content: center;
 }
 
 .Container h1{
