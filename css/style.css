@@ -32,6 +32,9 @@ section{
 .Container img{
     height: 300px;
     border-radius: 50%;
+    border: 5px lavender;
+    padding: 10px 10px 20px 20px;
+    margin: 20px 20px 15px 10px;
 }
 
 .Container h1{
@@ -59,17 +62,17 @@ footer {
 }
 
 #home {
-    background-color: blanchedalmond;
+    background-color: rgb(109, 8, 109);
 }
 
 #about {
-    background-color: aquamarine;
+    background-color: rgb(109, 8, 109);
 }
 
 #eceprojects {
-    background-color: blanchedalmond;
+    background-color: rgb(109, 8, 109);
 }
 
 #artsprojects {
-    background-color: aquamarine;
+    background-color: rgb(109, 8, 109);
 }
